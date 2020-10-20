@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I’m currently working on my new portfolio - built with [Vue.js](https://vuejs.org) and powered by [Nuxt.js](https://nuxtjs.org)!
-
 <!--
 **zeitchef/zeitchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
