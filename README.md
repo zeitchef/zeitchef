@@ -4,7 +4,8 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 
 ## Connect with me
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/.svg" />][website]
+[scottvoyles.com][website]
+
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
