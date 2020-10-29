@@ -2,8 +2,6 @@
 
 I'm a frontend software developer, musician and teacher based in Wiesbaden, Germany.
 
-https://scottvoyles.com
-
 ### Connect with me:
 
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
