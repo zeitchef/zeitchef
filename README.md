@@ -3,15 +3,10 @@
 I'm a frontend software developer based in Wiesbaden, Germany.
 
 ## Languages & Tools
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" />
+<span>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+       height="32" width="32" />
+</span>
 
 ---
 
