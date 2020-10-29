@@ -2,12 +2,14 @@
 
 I'm a frontend software developer, musician and teacher based in Wiesbaden, Germany.
 
+https://scottvoyles.com
+
 ### Connect with me:
 
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeitchef" height="30" width="40" />][linkedin]
 
-### Languages and Tools:
+### Stuff I love to work with:
 
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>][css]
@@ -23,7 +25,6 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>][webpack]
 
-<br />
 <br />
 
 ![zeitchef's github stats](https://github-readme-stats.vercel.app/api?username=zeitchef&show_icons=true&count_private=true&theme=vue-dark)
