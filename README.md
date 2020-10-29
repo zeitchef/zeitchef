@@ -1,6 +1,12 @@
 # Hi there, I'm Scott 👋
 
-I'm a frontend software developer based in Wiesbaden, Germany.
+I'm a frontend software developer, musician and teacher based in Wiesbaden, Germany.
+
+## Connect with me
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/.svg" />][website]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Languages & Tools
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32" width="32" /></span>
