@@ -16,7 +16,7 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="32" width="32" /></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" height="32" width="32" /></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" height="32" width="32" /></span>
-<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" height="32" width="32" /></span>
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" height="32" width="32" /></span>
 
 ---
 
