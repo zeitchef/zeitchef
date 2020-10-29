@@ -7,9 +7,7 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 <a href="https://linkedin.com/in/zeitchef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeitchef" height="30" width="40" /></a>
 
 ### Languages and Tools:
-<a href="https://www.11ty.dev/" target="_blank">
-  <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> 
-</a>
+[<img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>][11ty]
 <a href="https://babeljs.io/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </a> 
@@ -47,8 +45,12 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
 </a>
 
+<br />
+<br />
+
 ![zeitchef's github stats](https://github-readme-stats.vercel.app/api?username=zeitchef&show_icons=true&count_private=true&theme=vue-dark)
 
 [website]: https://scottvoyles.com
 [twitter]: https://twitter.com/zeitchef
 [linkedin]: https://www.linkedin.com/in/zeitchef/
+[11ty]: https://www.11ty.dev/
