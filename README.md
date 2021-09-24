@@ -7,17 +7,23 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeitchef" height="30" width="40" />][linkedin]
 
-### Stuff I love to work with:
+### Stuff I really love to work with:
 
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>][html]
-[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>][javascript]
-[<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>][vue]
-[<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>][nuxt]
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>][tailwind]
-[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>][babel]
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>][figma]
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
-[<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>][webpack]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" />][html]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="html5" width="40" height="40" />][css]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" />][javascript]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />][vue]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40" />][nuxt]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />][tailwind]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" alt="babel" width="40" height="40" />][babel]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />][webpack]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="webpack" width="40" height="40" />][yarn]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="webpack" width="40" height="40" />][jest]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="webpack" width="40" height="40" />][graphql]
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws" width="40" height="40" />][aws]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />][figma]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />][git]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/neovim.svg" alt="git" width="40" height="40" />][neovim]
 
 <br />
 
@@ -37,3 +43,8 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [webpack]: https://webpack.js.org
 [git]: https://git-scm.com/
 [figma]: https://www.figma.com/
+[jest]: https://jestjs.io/
+[aws]: https://aws.amazon.com/
+[neovim]: https://neovim.io/
+[yarn]: https://yarnpkg.com/
+[graphql]: https://graphql.org/
