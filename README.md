@@ -25,6 +25,10 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />][git]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/neovim.svg" alt="git" width="40" height="40" />][neovim]
 
+### Stuff I'm really excited about:
+
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vite.svg" alt="aws" width="40" height="40" />][vite]
+
 <br />
 
 ![zeitchef's github stats](https://github-readme-stats.vercel.app/api?username=zeitchef&show_icons=true&count_private=true&theme=vue-dark)
@@ -48,3 +52,4 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [neovim]: https://neovim.io/
 [yarn]: https://yarnpkg.com/
 [graphql]: https://graphql.org/
+[vite]: https://vitejs.dev/
