@@ -4,6 +4,7 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 
 ### Connect with me:
 
+[<img align="center" src="https://systemuicons.com/images/icons/chain.svg" alt="website" height="30" width="40" />][website]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeitchef" height="30" width="40" />][linkedin]
 
