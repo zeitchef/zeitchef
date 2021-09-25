@@ -21,15 +21,16 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="webpack" width="40" height="40" />][yarn]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="webpack" width="40" height="40" />][jest]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="webpack" width="40" height="40" />][graphql]
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws" width="40" height="40" />][aws]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />][aws]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />][figma]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />][git]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="git" width="40" height="40" />][neovim]
 
 ### Stuff I'm really excited about:
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript" width="40" height="40" />][javascript]
-[<img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="aws" width="40" height="40" />][vite]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />][javascript]
+[<img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="vite" width="40" height="40" />][vite]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40" />][deno]
 
 <br />
 
@@ -55,3 +56,4 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [yarn]: https://yarnpkg.com/
 [graphql]: https://graphql.org/
 [vite]: https://vitejs.dev/
+[deno]: https://deno.land/
