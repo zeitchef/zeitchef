@@ -28,7 +28,7 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 
 ### Stuff I'm really excited about:
 
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vite.svg" alt="aws" width="40" height="40" />][vite]
+[<img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="aws" width="40" height="40" />][vite]
 
 <br />
 
