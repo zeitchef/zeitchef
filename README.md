@@ -1,8 +1,8 @@
-# Hi 👋, I'm Scott
+# `<Hello />`
 
-I'm a frontend software developer, musician and teacher based in Wiesbaden, Germany.
+I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, Germany.
 
-### Connect with me:
+### Get in touch with me:
 
 [<img align="center" src="https://systemuicons.com/images/icons/chain.svg" alt="website" height="30" width="40" />][website]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
@@ -24,15 +24,16 @@ I'm a frontend software developer, musician and teacher based in Wiesbaden, Germ
 [<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws" width="40" height="40" />][aws]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />][figma]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />][git]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/neovim.svg" alt="git" width="40" height="40" />][neovim]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="git" width="40" height="40" />][neovim]
 
 ### Stuff I'm really excited about:
 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript" width="40" height="40" />][javascript]
 [<img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="aws" width="40" height="40" />][vite]
 
 <br />
 
-![zeitchef's github stats](https://github-readme-stats.vercel.app/api?username=zeitchef&show_icons=true&count_private=true&theme=vue-dark)
+![zeitchef's github stats](https://github-readme-stats.vercel.app/api?username=zeitchef&show_icons=true&count_private=true&theme=vue)
 
 [website]: https://scottvoyles.com
 [twitter]: https://twitter.com/zeitchef
