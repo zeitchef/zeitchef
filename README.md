@@ -5,8 +5,8 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 ### Get in touch with me:
 
 [<img align="center" src="https://systemuicons.com/images/icons/chain.svg" alt="website" height="30" width="40" />][website]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeitchef" height="30" width="40" />][linkedin]
+[<img align="center" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" alt="zeitchef" height="30" width="40" />][twitter]
+[<img align="center" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" alt="zeitchef" height="30" width="40" />][linkedin]
 
 ### Stuff I really love to work with:
 
@@ -31,6 +31,8 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />][javascript]
 [<img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="vite" width="40" height="40" />][vite]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40" />][deno]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" alt="jamstack" height="40" />][jamstack]
+[<img src="https://avatars3.githubusercontent.com/u/1905708?s=280&v=4" alt="webcomponents" height="40" width="40" />][webcomponents]
 
 <br />
 
@@ -57,3 +59,5 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [graphql]: https://graphql.org/
 [vite]: https://vitejs.dev/
 [deno]: https://deno.land/
+[jamstack]: https://jamstack.org/
+[webcomponents]: https://www.webcomponents.org/
