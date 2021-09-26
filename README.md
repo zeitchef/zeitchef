@@ -15,6 +15,7 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" />][javascript]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />][vue]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40" />][nuxt]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40" />][node]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />][tailwind]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" alt="babel" width="40" height="40" />][babel]
 [<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />][webpack]
@@ -42,6 +43,7 @@ I'm Scott, a frontend developer, musician and teacher based in Wiesbaden, German
 [twitter]: https://twitter.com/zeitchef
 [linkedin]: https://www.linkedin.com/in/zeitchef/
 [11ty]: https://www.11ty.dev/
+[node]: https://nodejs.org
 [babel]: https://babeljs.io/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://www.w3.org/html/
